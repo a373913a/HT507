@@ -6,7 +6,7 @@ class BatchRename():
     '''
     def __init__(self):
         #我的图片文件夹路径horse
-        self.path ='C:/Users/王利倫/Desktop/yolov3/VOCdevkit/VOC2007/JPEGImages'
+        self.path ='C:/Users/HT507/Desktop/opencv/VOCdevkit/VOC2007/JPEGImages'
  
     def rename(self):
         filelist = os.listdir(self.path)
