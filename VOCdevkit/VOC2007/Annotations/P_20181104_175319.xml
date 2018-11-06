@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>P_20181104_175319.jpg</filename>
+	<path>C:\Users\HT507\Desktop\opencv-master\VOCdevkit\VOC2007\JPEGImages\P_20181104_175319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milktea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>268</ymin>
+			<xmax>1780</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>

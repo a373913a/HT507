@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>P_20181104_175556.jpg</filename>
+	<path>C:\Users\HT507\Desktop\opencv-master\VOCdevkit\VOC2007\JPEGImages\P_20181104_175556.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>greentea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>256</ymin>
+			<xmax>1957</xmax>
+			<ymax>1046</ymax>
+		</bndbox>
+	</object>
+</annotation>
